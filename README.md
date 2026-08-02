@@ -1,5 +1,10 @@
 ## Professional Resume (LaTeX)
 
+**Here is what I created:**
+![Screenshot of resume](resume.PNG)
+>*It is pdf but can be changed anytime using the LaTex format and GitHub Actions*
+
+
 A professional, ATS-friendly resume built with LaTeX, designed to produce a clean, modern PDF suitable for software engineering, AI, and technology-related opportunities.
 
 This repository contains the complete source code of my resume rather than only the exported PDF. By maintaining the resume as code, every achievement, project, certification, or skill can be tracked through Git version history and updated efficiently.
